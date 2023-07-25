@@ -1,0 +1,1 @@
+Simple CRUD to be able to add, read, create and destroy products in laravel
